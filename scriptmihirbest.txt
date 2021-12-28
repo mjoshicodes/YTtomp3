@@ -1,0 +1,1481 @@
+{
+   "attributes": [
+      {
+         "@name": "scriptname"
+      },
+      {
+         "@name": "description"
+      },
+      {
+         "@name": "company",
+         "#text": "SmartBear%20Software%20Inc"
+      },
+      {
+         "@name": "appname",
+         "#text": "Deja"
+      },
+      {
+         "@name": "scripttype",
+         "#text": "DejaClick%20for%20Chrome"
+      },
+      {
+         "@name": "acceptcookies",
+         "#text": "0"
+      },
+      {
+         "@name": "disablepopups",
+         "#text": "false"
+      },
+      {
+         "@name": "modifiedbyuser",
+         "#text": "Tue%2C%2028%20Dec%202021%2002%3A27%3A44%20GMT"
+      },
+      {
+         "@name": "produced",
+         "#text": "Tue%2C%2028%20Dec%202021%2002%3A27%3A44%20GMT"
+      },
+      {
+         "@name": "pversion",
+         "#text": "2.7.7.2"
+      },
+      {
+         "@name": "pbrowser",
+         "#text": "Chrome"
+      },
+      {
+         "@name": "pbrowserversion",
+         "#text": "96.0.4664.110"
+      },
+      {
+         "@name": "modified",
+         "#text": "Tue%2C%2028%20Dec%202021%2002%3A28%3A45%20GMT"
+      },
+      {
+         "@name": "mversion",
+         "#text": "2.7.7.2"
+      },
+      {
+         "@name": "mbrowser",
+         "#text": "Chrome"
+      },
+      {
+         "@name": "mbrowserversion",
+         "#text": "96.0.4664.110"
+      },
+      {
+         "@name": "rfeatures",
+         "#text": "script%20variables%2Cbranching"
+      },
+      {
+         "@name": "txnstruct",
+         "#text": "1%3A3%3A2"
+      }
+   ],
+   "actions": {
+      "@type": "record",
+      "@generated": "Tue%2C%2028%20Dec%202021%2002%3A08%3A19%20GMT",
+      "action": [
+         {
+            "@type": "browser",
+            "@seq": "1",
+            "attributes": [
+               {
+                  "@name": "actionname"
+               },
+               {
+                  "@name": "description",
+                  "#text": "YouTube%20to%20MP3%20-%20Best%20youtube%20to%20mp3%20music%20converter."
+               },
+               {
+                  "@name": "urlrequested",
+                  "#text": "https%3A%2F%2F320ytmp3.com%2Fen31%2F"
+               },
+               {
+                  "@name": "urlfinalized",
+                  "#text": "https%3A%2F%2F320ytmp3.com%2Fen31%2F"
+               }
+            ],
+            "event": {
+               "@type": "navigate",
+               "@seq": "1",
+               "eventparams": [
+                  {
+                     "@name": "urlrequested",
+                     "#text": "https%3A%2F%2F320ytmp3.com%2Fen31%2F"
+                  },
+                  {
+                     "@name": "urlfinalized",
+                     "#text": "https%3A%2F%2F320ytmp3.com%2Fen31%2F"
+                  }
+               ],
+               "replayhints": [
+                  {
+                     "@name": "netactivity",
+                     "#text": "yes"
+                  },
+                  {
+                     "@name": "thinktime",
+                     "#text": "1978"
+                  },
+                  {
+                     "@name": "locations",
+                     "#text": "1"
+                  }
+               ]
+            }
+         },
+         {
+            "@type": "browser",
+            "@seq": "2",
+            "attributes": [
+               {
+                  "@name": "actionname"
+               },
+               {
+                  "@name": "description",
+                  "#text": "YouTube%20to%20MP3%20-%20Best%20youtube%20to%20mp3%20music%20converter."
+               },
+               {
+                  "@name": "urlrequested",
+                  "#text": "https%3A%2F%2F320ytmp3.com%2Fen31%2Fdownload%3Ftype%3Dytmp3%26url%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DsVx1mJDeUjY"
+               },
+               {
+                  "@name": "urlfinalized",
+                  "#text": "https%3A%2F%2F320ytmp3.com%2Fen31%2Fdownload%3Ftype%3Dytmp3%26url%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DsVx1mJDeUjY"
+               }
+            ],
+            "event": [
+               {
+                  "@type": "click",
+                  "@seq": "2",
+                  "eventparams": [
+                     {
+                        "@name": "detail",
+                        "#text": "1"
+                     },
+                     {
+                        "@name": "screenX",
+                        "#text": "684"
+                     },
+                     {
+                        "@name": "screenY",
+                        "#text": "329"
+                     },
+                     {
+                        "@name": "clientX",
+                        "#text": "240"
+                     },
+                     {
+                        "@name": "clientY",
+                        "#text": "225"
+                     },
+                     {
+                        "@name": "sequence",
+                        "#text": "mouseover%2Cmousedown%2Cfocus%2Cmouseup%2Cclick"
+                     }
+                  ],
+                  "attributes": {
+                     "attrib": {
+                        "@name": "description",
+                        "#text": "Click%20on%20%3CINPUT%3E%20Search"
+                     }
+                  },
+                  "targets": [
+                     {
+                        "@type": "document",
+                        "fingerprint": "1%3A1%3A1%3A1%3A2",
+                        "breadcrumbs": [
+                           {
+                              "@tag": "document",
+                              "@index": "1",
+                              "attributes": [
+                                 {
+                                    "@name": "type",
+                                    "#text": "body"
+                                 },
+                                 {
+                                    "@name": "seq",
+                                    "#text": "2"
+                                 },
+                                 {
+                                    "@name": "subscript",
+                                    "#text": "0"
+                                 },
+                                 {
+                                    "@name": "action",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "event",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "urldocument",
+                                    "#text": "https%3A%2F%2F320ytmp3.com%2Fen31%2F"
+                                 },
+                                 {
+                                    "@name": "title",
+                                    "#text": "YouTube%20to%20MP3%20-%20Best%20youtube%20to%20mp3%20music%20converter."
+                                 },
+                                 {
+                                    "@name": "tabId",
+                                    "#text": "246"
+                                 },
+                                 {
+                                    "@name": "docId",
+                                    "#text": "10"
+                                 }
+                              ]
+                           },
+                           {
+                              "@tag": "location",
+                              "@index": "0",
+                              "attributes": [
+                                 {
+                                    "@name": "type",
+                                    "#text": "navigate"
+                                 },
+                                 {
+                                    "@name": "seq",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "subscript",
+                                    "#text": "0"
+                                 },
+                                 {
+                                    "@name": "action",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "event",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "urlrequested",
+                                    "#text": "https%3A%2F%2F320ytmp3.com%2Fen31%2F"
+                                 },
+                                 {
+                                    "@name": "urlfinalized",
+                                    "#text": "https%3A%2F%2F320ytmp3.com%2Fen31%2F"
+                                 }
+                              ]
+                           },
+                           {
+                              "@tag": "browser",
+                              "@index": "0",
+                              "attributes": [
+                                 {
+                                    "@name": "type",
+                                    "#text": "tabbrowser"
+                                 },
+                                 {
+                                    "@name": "seq",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "subscript",
+                                    "#text": "0"
+                                 },
+                                 {
+                                    "@name": "action",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "event",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "browserindex",
+                                    "#text": "0"
+                                 }
+                              ]
+                           }
+                        ]
+                     },
+                     {
+                        "@type": "element",
+                        "fingerprint": "1%3A1%3A2%3A1%3A2%3A1%3A1%3A1%3A3",
+                        "elementpath": "id('go')%2Fdiv%2Finput%5B2%5D",
+                        "elementfullxpath": "%2Fhtml%2Fbody%2Fdiv%5B1%5D%2Fdiv%2Fdiv%5B2%5D%2Fdiv%2Fform%2Fdiv%2Finput%5B2%5D",
+                        "breadcrumbs": [
+                           {
+                              "@tag": "INPUT",
+                              "@index": "1",
+                              "attributes": [
+                                 {
+                                    "@name": "name",
+                                    "#text": "url"
+                                 },
+                                 {
+                                    "@name": "type",
+                                    "#text": "text"
+                                 }
+                              ]
+                           },
+                           {
+                              "@tag": "FORM",
+                              "@index": "0",
+                              "attributes": [
+                                 {
+                                    "@name": "id",
+                                    "#text": "go"
+                                 },
+                                 {
+                                    "@name": "method",
+                                    "#text": "get"
+                                 },
+                                 {
+                                    "@name": "action",
+                                    "#text": "%2Fen31%2Fdownload"
+                                 }
+                              ]
+                           },
+                           {
+                              "@tag": "BODY",
+                              "@index": "0"
+                           }
+                        ]
+                     }
+                  ],
+                  "replayhints": {
+                     "hint": {
+                        "@name": "thinktime",
+                        "#text": "2375"
+                     }
+                  }
+               },
+               {
+                  "@type": "change",
+                  "@seq": "3",
+                  "@stepbreakallowed": "true",
+                  "attributes": [
+                     {
+                        "@name": "usekeystrokes",
+                        "@modifiedbyuser": "1640658464143",
+                        "#text": "false"
+                     },
+                     {
+                        "@name": "description",
+                        "#text": "Change%20on%20%3CINPUT%3E%20Search"
+                     },
+                     {
+                        "@name": "simulateenter",
+                        "@modifiedbyuser": "1640658464143",
+                        "#text": "false"
+                     }
+                  ],
+                  "targets": [
+                     {
+                        "@type": "document",
+                        "fingerprint": "1%3A1%3A1%3A1%3A1",
+                        "breadcrumbs": [
+                           {
+                              "@tag": "document",
+                              "@index": "0",
+                              "attributes": [
+                                 {
+                                    "@name": "type",
+                                    "#text": "body"
+                                 },
+                                 {
+                                    "@name": "seq",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "subscript",
+                                    "#text": "0"
+                                 },
+                                 {
+                                    "@name": "action",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "event",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "urldocument",
+                                    "#text": "https%3A%2F%2F320ytmp3.com%2Fen31%2F"
+                                 },
+                                 {
+                                    "@name": "title",
+                                    "#text": "YouTube%20to%20MP3%20-%20Best%20youtube%20to%20mp3%20music%20converter."
+                                 },
+                                 {
+                                    "@name": "tabId",
+                                    "#text": "253"
+                                 },
+                                 {
+                                    "@name": "docId",
+                                    "#text": "50"
+                                 }
+                              ]
+                           },
+                           {
+                              "@tag": "location",
+                              "@index": "0",
+                              "attributes": [
+                                 {
+                                    "@name": "type",
+                                    "#text": "navigate"
+                                 },
+                                 {
+                                    "@name": "seq",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "subscript",
+                                    "#text": "0"
+                                 },
+                                 {
+                                    "@name": "action",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "event",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "urlrequested",
+                                    "#text": "https%3A%2F%2F320ytmp3.com%2Fen31%2F"
+                                 },
+                                 {
+                                    "@name": "urlfinalized",
+                                    "#text": "https%3A%2F%2F320ytmp3.com%2Fen31%2F"
+                                 }
+                              ]
+                           },
+                           {
+                              "@tag": "browser",
+                              "@index": "0",
+                              "attributes": [
+                                 {
+                                    "@name": "type",
+                                    "#text": "tabbrowser"
+                                 },
+                                 {
+                                    "@name": "seq",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "subscript",
+                                    "#text": "0"
+                                 },
+                                 {
+                                    "@name": "action",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "event",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "browserindex",
+                                    "#text": "0"
+                                 }
+                              ]
+                           }
+                        ]
+                     },
+                     {
+                        "@type": "element",
+                        "fingerprint": "1%3A1%3A2%3A1%3A2%3A1%3A1%3A1%3A3",
+                        "elementpath": "id('go')%2Fdiv%2Finput%5B2%5D",
+                        "elementfullxpath": "%2Fhtml%2Fbody%2Fdiv%5B1%5D%2Fdiv%2Fdiv%5B2%5D%2Fdiv%2Fform%2Fdiv%2Finput%5B2%5D",
+                        "breadcrumbs": [
+                           {
+                              "@tag": "INPUT",
+                              "@index": "1",
+                              "attributes": [
+                                 {
+                                    "@name": "name",
+                                    "#text": "url"
+                                 },
+                                 {
+                                    "@name": "type",
+                                    "#text": "text"
+                                 }
+                              ]
+                           },
+                           {
+                              "@tag": "FORM",
+                              "@index": "0",
+                              "attributes": [
+                                 {
+                                    "@name": "id",
+                                    "#text": "go"
+                                 },
+                                 {
+                                    "@name": "method",
+                                    "#text": "get"
+                                 },
+                                 {
+                                    "@name": "action",
+                                    "#text": "%2Fen31%2Fdownload"
+                                 }
+                              ]
+                           },
+                           {
+                              "@tag": "BODY",
+                              "@index": "0"
+                           }
+                        ]
+                     }
+                  ],
+                  "eventparams": {
+                     "param": {
+                        "@name": "varreference",
+                        "#text": "Music%20List"
+                     }
+                  }
+               },
+               {
+                  "@type": "click",
+                  "@seq": "4",
+                  "@stepbreakallowed": "true",
+                  "eventparams": [
+                     {
+                        "@name": "detail",
+                        "#text": "1"
+                     },
+                     {
+                        "@name": "screenX",
+                        "#text": "1291"
+                     },
+                     {
+                        "@name": "screenY",
+                        "#text": "311"
+                     },
+                     {
+                        "@name": "clientX",
+                        "#text": "847"
+                     },
+                     {
+                        "@name": "clientY",
+                        "#text": "207"
+                     },
+                     {
+                        "@name": "sequence",
+                        "#text": "mousedown%2Cfocus%2Cmouseup%2Cclick"
+                     }
+                  ],
+                  "attributes": {
+                     "attrib": {
+                        "@name": "description",
+                        "#text": "Mousedown%20on%20%3CBUTTON%3E%20Search"
+                     }
+                  },
+                  "targets": [
+                     {
+                        "@type": "document",
+                        "fingerprint": "1%3A1%3A1%3A1%3A2",
+                        "breadcrumbs": [
+                           {
+                              "@tag": "document",
+                              "@index": "1",
+                              "attributes": [
+                                 {
+                                    "@name": "type",
+                                    "#text": "body"
+                                 },
+                                 {
+                                    "@name": "seq",
+                                    "#text": "2"
+                                 },
+                                 {
+                                    "@name": "subscript",
+                                    "#text": "0"
+                                 },
+                                 {
+                                    "@name": "action",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "event",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "urldocument",
+                                    "#text": "https%3A%2F%2F320ytmp3.com%2Fen31%2F"
+                                 },
+                                 {
+                                    "@name": "title",
+                                    "#text": "YouTube%20to%20MP3%20-%20Best%20youtube%20to%20mp3%20music%20converter."
+                                 },
+                                 {
+                                    "@name": "tabId",
+                                    "#text": "246"
+                                 },
+                                 {
+                                    "@name": "docId",
+                                    "#text": "10"
+                                 }
+                              ]
+                           },
+                           {
+                              "@tag": "location",
+                              "@index": "0",
+                              "attributes": [
+                                 {
+                                    "@name": "type",
+                                    "#text": "navigate"
+                                 },
+                                 {
+                                    "@name": "seq",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "subscript",
+                                    "#text": "0"
+                                 },
+                                 {
+                                    "@name": "action",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "event",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "urlrequested",
+                                    "#text": "https%3A%2F%2F320ytmp3.com%2Fen31%2F"
+                                 },
+                                 {
+                                    "@name": "urlfinalized",
+                                    "#text": "https%3A%2F%2F320ytmp3.com%2Fen31%2F"
+                                 }
+                              ]
+                           },
+                           {
+                              "@tag": "browser",
+                              "@index": "0",
+                              "attributes": [
+                                 {
+                                    "@name": "type",
+                                    "#text": "tabbrowser"
+                                 },
+                                 {
+                                    "@name": "seq",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "subscript",
+                                    "#text": "0"
+                                 },
+                                 {
+                                    "@name": "action",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "event",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "browserindex",
+                                    "#text": "0"
+                                 }
+                              ]
+                           }
+                        ]
+                     },
+                     {
+                        "@type": "element",
+                        "fingerprint": "1%3A1%3A2%3A1%3A2%3A1%3A1%3A1%3A4",
+                        "elementpath": "id('go')%2Fdiv%2Fbutton",
+                        "elementfullxpath": "%2Fhtml%2Fbody%2Fdiv%5B1%5D%2Fdiv%2Fdiv%5B2%5D%2Fdiv%2Fform%2Fdiv%2Fbutton",
+                        "breadcrumbs": [
+                           {
+                              "@tag": "BUTTON",
+                              "@index": "0",
+                              "attributes": {
+                                 "attrib": {
+                                    "@name": "type",
+                                    "#text": "submit"
+                                 }
+                              }
+                           },
+                           {
+                              "@tag": "FORM",
+                              "@index": "0",
+                              "attributes": [
+                                 {
+                                    "@name": "id",
+                                    "#text": "go"
+                                 },
+                                 {
+                                    "@name": "method",
+                                    "#text": "get"
+                                 },
+                                 {
+                                    "@name": "action",
+                                    "#text": "%2Fen31%2Fdownload"
+                                 }
+                              ]
+                           },
+                           {
+                              "@tag": "BODY",
+                              "@index": "0"
+                           }
+                        ]
+                     }
+                  ],
+                  "replayhints": [
+                     {
+                        "@name": "thinktime",
+                        "#text": "1393"
+                     },
+                     {
+                        "@name": "netactivity",
+                        "#text": "yes"
+                     },
+                     {
+                        "@name": "locations",
+                        "#text": "1"
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "@type": "browser",
+            "@seq": "3",
+            "attributes": [
+               {
+                  "@name": "actionname"
+               },
+               {
+                  "@name": "description"
+               }
+            ],
+            "event": [
+               {
+                  "@type": "click",
+                  "@seq": "5",
+                  "eventparams": [
+                     {
+                        "@name": "detail",
+                        "#text": "1"
+                     },
+                     {
+                        "@name": "screenX",
+                        "#text": "1203"
+                     },
+                     {
+                        "@name": "screenY",
+                        "#text": "546"
+                     },
+                     {
+                        "@name": "clientX",
+                        "#text": "759"
+                     },
+                     {
+                        "@name": "clientY",
+                        "#text": "442"
+                     },
+                     {
+                        "@name": "sequence",
+                        "#text": "mousedown%2Cfocus%2Cmouseup%2Cclick"
+                     }
+                  ],
+                  "attributes": [
+                     {
+                        "@name": "description",
+                        "#text": "Click%20on%20%3CBUTTON%3E%20Convert"
+                     },
+                     {
+                        "@name": "usethinktimehints",
+                        "@modifiedbyuser": "1640658034172",
+                        "#text": "true"
+                     },
+                     {
+                        "@name": "useeventspeed",
+                        "@modifiedbyuser": "1640658034172",
+                        "#text": "false"
+                     },
+                     {
+                        "@name": "eventspeed",
+                        "@modifiedbyuser": "1640658034172",
+                        "#text": "1"
+                     }
+                  ],
+                  "targets": [
+                     {
+                        "@type": "document",
+                        "fingerprint": "1%3A1%3A1%3A1%3A7%3A1%3A2",
+                        "breadcrumbs": [
+                           {
+                              "@tag": "document",
+                              "@index": "1",
+                              "attributes": [
+                                 {
+                                    "@name": "type",
+                                    "#text": "body"
+                                 },
+                                 {
+                                    "@name": "seq",
+                                    "#text": "6"
+                                 },
+                                 {
+                                    "@name": "subscript",
+                                    "#text": "0"
+                                 },
+                                 {
+                                    "@name": "action",
+                                    "#text": "2"
+                                 },
+                                 {
+                                    "@name": "event",
+                                    "#text": "4"
+                                 },
+                                 {
+                                    "@name": "urldocument",
+                                    "#text": "https%3A%2F%2F320ytmp3.com%2Fen31%2Fdownload%3Ftype%3Dytmp3%26url%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DsVx1mJDeUjY"
+                                 },
+                                 {
+                                    "@name": "title",
+                                    "#text": "YouTube%20to%20MP3%20-%20Best%20youtube%20to%20mp3%20music%20converter."
+                                 },
+                                 {
+                                    "@name": "tabId",
+                                    "#text": "246"
+                                 },
+                                 {
+                                    "@name": "docId",
+                                    "#text": "13"
+                                 }
+                              ]
+                           },
+                           {
+                              "@tag": "location",
+                              "@index": "0",
+                              "attributes": [
+                                 {
+                                    "@name": "type",
+                                    "#text": "event"
+                                 },
+                                 {
+                                    "@name": "seq",
+                                    "#text": "2"
+                                 },
+                                 {
+                                    "@name": "subscript",
+                                    "#text": "0"
+                                 },
+                                 {
+                                    "@name": "action",
+                                    "#text": "2"
+                                 },
+                                 {
+                                    "@name": "event",
+                                    "#text": "4"
+                                 },
+                                 {
+                                    "@name": "urlrequested",
+                                    "#text": "https%3A%2F%2F320ytmp3.com%2Fen31%2Fdownload%3Ftype%3Dytmp3%26url%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DsVx1mJDeUjY"
+                                 },
+                                 {
+                                    "@name": "urlfinalized",
+                                    "#text": "https%3A%2F%2F320ytmp3.com%2Fen31%2Fdownload%3Ftype%3Dytmp3%26url%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DsVx1mJDeUjY"
+                                 }
+                              ]
+                           },
+                           {
+                              "@tag": "location",
+                              "@index": "0",
+                              "attributes": [
+                                 {
+                                    "@name": "type",
+                                    "#text": "navigate"
+                                 },
+                                 {
+                                    "@name": "seq",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "subscript",
+                                    "#text": "0"
+                                 },
+                                 {
+                                    "@name": "action",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "event",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "urlrequested",
+                                    "#text": "https%3A%2F%2F320ytmp3.com%2Fen31%2F"
+                                 },
+                                 {
+                                    "@name": "urlfinalized",
+                                    "#text": "https%3A%2F%2F320ytmp3.com%2Fen31%2F"
+                                 }
+                              ]
+                           },
+                           {
+                              "@tag": "browser",
+                              "@index": "0",
+                              "attributes": [
+                                 {
+                                    "@name": "type",
+                                    "#text": "tabbrowser"
+                                 },
+                                 {
+                                    "@name": "seq",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "subscript",
+                                    "#text": "0"
+                                 },
+                                 {
+                                    "@name": "action",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "event",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "browserindex",
+                                    "#text": "0"
+                                 }
+                              ]
+                           }
+                        ]
+                     },
+                     {
+                        "@type": "element",
+                        "fingerprint": "1%3A1%3A4%3A1%3A1%3A2%3A1%3A2%3A2%3A1%3A2%3A1%3A1",
+                        "elementpath": "id('cvt-btn')",
+                        "elementfullxpath": "%2Fhtml%2Fbody%2Fsection%5B1%5D%2Fdiv%2Fdiv%2Fdiv%5B2%5D%2Fdiv%2Fdiv%2Fdiv%5B2%5D%2Fdiv%2Fdiv%5B2%5D%2Fspan%2Fbutton",
+                        "breadcrumbs": [
+                           {
+                              "@tag": "BUTTON",
+                              "@index": "0",
+                              "attributes": [
+                                 {
+                                    "@name": "id",
+                                    "#text": "cvt-btn"
+                                 },
+                                 {
+                                    "@name": "type",
+                                    "#text": "submit"
+                                 }
+                              ]
+                           },
+                           {
+                              "@tag": "DIV",
+                              "@index": "11",
+                              "attributes": {
+                                 "attrib": {
+                                    "@name": "id",
+                                    "#text": "MP3"
+                                 }
+                              }
+                           },
+                           {
+                              "@tag": "DIV",
+                              "@index": "0",
+                              "attributes": {
+                                 "attrib": {
+                                    "@name": "id",
+                                    "#text": "myTabContent"
+                                 }
+                              }
+                           },
+                           {
+                              "@tag": "DIV",
+                              "@index": "14",
+                              "attributes": {
+                                 "attrib": {
+                                    "@name": "id",
+                                    "#text": "video-info"
+                                 }
+                              }
+                           },
+                           {
+                              "@tag": "BODY",
+                              "@index": "0"
+                           }
+                        ]
+                     }
+                  ],
+                  "replayhints": [
+                     {
+                        "@name": "netactivity",
+                        "#text": "yes"
+                     },
+                     {
+                        "@name": "thinktime",
+                        "#text": "21636"
+                     }
+                  ]
+               },
+               {
+                  "@type": "click",
+                  "@seq": "6",
+                  "@stepbreakallowed": "true",
+                  "eventparams": [
+                     {
+                        "@name": "detail",
+                        "#text": "1"
+                     },
+                     {
+                        "@name": "screenX",
+                        "#text": "1203"
+                     },
+                     {
+                        "@name": "screenY",
+                        "#text": "546"
+                     },
+                     {
+                        "@name": "clientX",
+                        "#text": "759"
+                     },
+                     {
+                        "@name": "clientY",
+                        "#text": "442"
+                     },
+                     {
+                        "@name": "sequence",
+                        "#text": "mouseover%2Cmousedown%2Cfocus%2Cmouseup%2Cclick"
+                     }
+                  ],
+                  "attributes": {
+                     "attrib": {
+                        "@name": "description",
+                        "#text": "Click%20on%20%3CA%3E%20Download"
+                     }
+                  },
+                  "targets": [
+                     {
+                        "@type": "document",
+                        "fingerprint": "1%3A1%3A1%3A1%3A7%3A1%3A2",
+                        "breadcrumbs": [
+                           {
+                              "@tag": "document",
+                              "@index": "1",
+                              "attributes": [
+                                 {
+                                    "@name": "type",
+                                    "#text": "body"
+                                 },
+                                 {
+                                    "@name": "seq",
+                                    "#text": "6"
+                                 },
+                                 {
+                                    "@name": "subscript",
+                                    "#text": "0"
+                                 },
+                                 {
+                                    "@name": "action",
+                                    "#text": "2"
+                                 },
+                                 {
+                                    "@name": "event",
+                                    "#text": "4"
+                                 },
+                                 {
+                                    "@name": "urldocument",
+                                    "#text": "https%3A%2F%2F320ytmp3.com%2Fen31%2Fdownload%3Ftype%3Dytmp3%26url%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DsVx1mJDeUjY"
+                                 },
+                                 {
+                                    "@name": "title",
+                                    "#text": "YouTube%20to%20MP3%20-%20Best%20youtube%20to%20mp3%20music%20converter."
+                                 },
+                                 {
+                                    "@name": "tabId",
+                                    "#text": "246"
+                                 },
+                                 {
+                                    "@name": "docId",
+                                    "#text": "13"
+                                 }
+                              ]
+                           },
+                           {
+                              "@tag": "location",
+                              "@index": "0",
+                              "attributes": [
+                                 {
+                                    "@name": "type",
+                                    "#text": "event"
+                                 },
+                                 {
+                                    "@name": "seq",
+                                    "#text": "2"
+                                 },
+                                 {
+                                    "@name": "subscript",
+                                    "#text": "0"
+                                 },
+                                 {
+                                    "@name": "action",
+                                    "#text": "2"
+                                 },
+                                 {
+                                    "@name": "event",
+                                    "#text": "4"
+                                 },
+                                 {
+                                    "@name": "urlrequested",
+                                    "#text": "https%3A%2F%2F320ytmp3.com%2Fen31%2Fdownload%3Ftype%3Dytmp3%26url%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DsVx1mJDeUjY"
+                                 },
+                                 {
+                                    "@name": "urlfinalized",
+                                    "#text": "https%3A%2F%2F320ytmp3.com%2Fen31%2Fdownload%3Ftype%3Dytmp3%26url%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DsVx1mJDeUjY"
+                                 }
+                              ]
+                           },
+                           {
+                              "@tag": "location",
+                              "@index": "0",
+                              "attributes": [
+                                 {
+                                    "@name": "type",
+                                    "#text": "navigate"
+                                 },
+                                 {
+                                    "@name": "seq",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "subscript",
+                                    "#text": "0"
+                                 },
+                                 {
+                                    "@name": "action",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "event",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "urlrequested",
+                                    "#text": "https%3A%2F%2F320ytmp3.com%2Fen31%2F"
+                                 },
+                                 {
+                                    "@name": "urlfinalized",
+                                    "#text": "https%3A%2F%2F320ytmp3.com%2Fen31%2F"
+                                 }
+                              ]
+                           },
+                           {
+                              "@tag": "browser",
+                              "@index": "0",
+                              "attributes": [
+                                 {
+                                    "@name": "type",
+                                    "#text": "tabbrowser"
+                                 },
+                                 {
+                                    "@name": "seq",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "subscript",
+                                    "#text": "0"
+                                 },
+                                 {
+                                    "@name": "action",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "event",
+                                    "#text": "1"
+                                 },
+                                 {
+                                    "@name": "browserindex",
+                                    "#text": "0"
+                                 }
+                              ]
+                           }
+                        ]
+                     },
+                     {
+                        "@type": "element",
+                        "fingerprint": "1%3A1%3A4%3A1%3A1%3A2%3A1%3A2%3A2%3A1%3A2%3A1%3A2",
+                        "elementpath": "id('mp3-dl-btn')",
+                        "elementfullxpath": "%2Fhtml%2Fbody%2Fsection%5B1%5D%2Fdiv%2Fdiv%2Fdiv%5B2%5D%2Fdiv%2Fdiv%2Fdiv%5B2%5D%2Fdiv%2Fdiv%5B2%5D%2Fspan%2Fa",
+                        "breadcrumbs": [
+                           {
+                              "@tag": "A",
+                              "@index": "0",
+                              "attributes": [
+                                 {
+                                    "@name": "id",
+                                    "#text": "mp3-dl-btn"
+                                 },
+                                 {
+                                    "@name": "href",
+                                    "#text": "https%3A%2F%2Fdl113.320ytmp3.com%2Ffile%2FyoutubesVx1mJDeUjY128.mp3%3Ffn%3DMr.Kitty%2520-%2520After%2520Dark.mp3"
+                                 },
+                                 {
+                                    "@name": "innerText",
+                                    "#text": "download"
+                                 }
+                              ]
+                           },
+                           {
+                              "@tag": "DIV",
+                              "@index": "11",
+                              "attributes": {
+                                 "attrib": {
+                                    "@name": "id",
+                                    "#text": "MP3"
+                                 }
+                              }
+                           },
+                           {
+                              "@tag": "DIV",
+                              "@index": "0",
+                              "attributes": {
+                                 "attrib": {
+                                    "@name": "id",
+                                    "#text": "myTabContent"
+                                 }
+                              }
+                           },
+                           {
+                              "@tag": "DIV",
+                              "@index": "14",
+                              "attributes": {
+                                 "attrib": {
+                                    "@name": "id",
+                                    "#text": "video-info"
+                                 }
+                              }
+                           },
+                           {
+                              "@tag": "BODY",
+                              "@index": "0"
+                           }
+                        ]
+                     }
+                  ],
+                  "replayhints": [
+                     {
+                        "@name": "netactivity",
+                        "#text": "yes"
+                     },
+                     {
+                        "@name": "thinktime",
+                        "#text": "72"
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "event": {
+         "@type": "change",
+         "@seq": "7",
+         "attributes": [
+            {
+               "@name": "usekeystrokes",
+               "#text": "true"
+            },
+            {
+               "@name": "description",
+               "#text": "Change%20on%20%3CINPUT%3E%20Search"
+            }
+         ],
+         "targets": [
+            {
+               "@type": "document",
+               "fingerprint": "1%3A1%3A1%3A1%3A1",
+               "breadcrumbs": [
+                  {
+                     "@tag": "document",
+                     "@index": "0",
+                     "attributes": [
+                        {
+                           "@name": "type",
+                           "#text": "body"
+                        },
+                        {
+                           "@name": "seq",
+                           "#text": "1"
+                        },
+                        {
+                           "@name": "subscript",
+                           "#text": "0"
+                        },
+                        {
+                           "@name": "action",
+                           "#text": "1"
+                        },
+                        {
+                           "@name": "event",
+                           "#text": "1"
+                        },
+                        {
+                           "@name": "urldocument",
+                           "#text": "https%3A%2F%2F320ytmp3.com%2Fen31%2F"
+                        },
+                        {
+                           "@name": "title",
+                           "#text": "YouTube%20to%20MP3%20-%20Best%20youtube%20to%20mp3%20music%20converter."
+                        },
+                        {
+                           "@name": "tabId",
+                           "#text": "253"
+                        },
+                        {
+                           "@name": "docId",
+                           "#text": "41"
+                        }
+                     ]
+                  },
+                  {
+                     "@tag": "location",
+                     "@index": "0",
+                     "attributes": [
+                        {
+                           "@name": "type",
+                           "#text": "navigate"
+                        },
+                        {
+                           "@name": "seq",
+                           "#text": "1"
+                        },
+                        {
+                           "@name": "subscript",
+                           "#text": "0"
+                        },
+                        {
+                           "@name": "action",
+                           "#text": "1"
+                        },
+                        {
+                           "@name": "event",
+                           "#text": "1"
+                        },
+                        {
+                           "@name": "urlrequested",
+                           "#text": "https%3A%2F%2F320ytmp3.com%2Fen31%2F"
+                        },
+                        {
+                           "@name": "urlfinalized",
+                           "#text": "https%3A%2F%2F320ytmp3.com%2Fen31%2F"
+                        }
+                     ]
+                  },
+                  {
+                     "@tag": "browser",
+                     "@index": "0",
+                     "attributes": [
+                        {
+                           "@name": "type",
+                           "#text": "tabbrowser"
+                        },
+                        {
+                           "@name": "seq",
+                           "#text": "1"
+                        },
+                        {
+                           "@name": "subscript",
+                           "#text": "0"
+                        },
+                        {
+                           "@name": "action",
+                           "#text": "1"
+                        },
+                        {
+                           "@name": "event",
+                           "#text": "1"
+                        },
+                        {
+                           "@name": "browserindex",
+                           "#text": "0"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "@type": "element",
+               "fingerprint": "1%3A1%3A2%3A1%3A2%3A1%3A1%3A1%3A3",
+               "elementpath": "id('go')%2Fdiv%2Finput%5B2%5D",
+               "elementfullxpath": "%2Fhtml%2Fbody%2Fdiv%5B1%5D%2Fdiv%2Fdiv%5B2%5D%2Fdiv%2Fform%2Fdiv%2Finput%5B2%5D",
+               "breadcrumbs": [
+                  {
+                     "@tag": "INPUT",
+                     "@index": "1",
+                     "attributes": [
+                        {
+                           "@name": "name",
+                           "#text": "url"
+                        },
+                        {
+                           "@name": "type",
+                           "#text": "text"
+                        }
+                     ]
+                  },
+                  {
+                     "@tag": "FORM",
+                     "@index": "0",
+                     "attributes": [
+                        {
+                           "@name": "id",
+                           "#text": "go"
+                        },
+                        {
+                           "@name": "method",
+                           "#text": "get"
+                        },
+                        {
+                           "@name": "action",
+                           "#text": "%2Fen31%2Fdownload"
+                        }
+                     ]
+                  },
+                  {
+                     "@tag": "BODY",
+                     "@index": "0"
+                  }
+               ]
+            }
+         ],
+         "eventparams": {
+            "param": {
+               "@name": "keycodes",
+               "#text": "keydown%3A%5B91%5D%3A%7Ckeydown%3A%5B86%5D%3A%7Ckeyup%3A%5B91%5D%3A%7Ckeyup%3A%5B86%5D%3A"
+            }
+         },
+         "replayhints": {
+            "hint": {
+               "@name": "thinktime",
+               "#text": "8643"
+            }
+         }
+      }
+   },
+   "subscripts": [],
+   "variables": {
+      "variable": {
+         "@type": "1",
+         "@seq": "1",
+         "varparams": [
+            {
+               "@name": "varname",
+               "#text": "Music%20List"
+            },
+            {
+               "@name": "vartext",
+               "#text": "1%3A%09%3A%3A%09%3Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsVx1mJDeUjY%7C%09%7C1%3A%09%3A%3A%09%3Ahttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHbfBBjacWj4"
+            },
+            {
+               "@name": "sticky",
+               "#text": "false"
+            }
+         ]
+      }
+   }
+}
